@@ -44,7 +44,8 @@
   </p>
 </div>
 
-[![Vivi's GitHub stats](https://github-readme-stats.vercel.app/api?username=vivianevianaa&show_icons=true&theme=material-palenight&hide=issues,contribs&count_private=true&include_all_commits=true&text_bold=false)](https://github.com/vivianevianaa/github-readme-stats)
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vivianevianaa&show_icons=true&theme=material-palenight&hide=issues,contribs&count_private=true&include_all_commits=true&text_bold=false">
+</div>
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vivianevianaa&layout=compact&langs_count=10&count_private=true&include_all_commits=true)](https://github.com/vivianevianaa/github-readme-stats) --> 
