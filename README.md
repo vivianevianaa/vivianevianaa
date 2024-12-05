@@ -1,7 +1,7 @@
 <div>
   <h4 align="center"> Olá :) </h4>
   <p><sub>• Sou estudante de Sistemas de Informação; </sub></p>
-  <p><sub>• Atuo como desenvolvedora jr no Grupo Águia Branca; </sub></p>
+  <p><sub>• Atuo como desenvolvedora pl. no Grupo Águia Branca; </sub></p>
   <p><sub>• Apaixonada por C#, Python, bancos de dados, integrações entre sistemas e análise e desenvolvimento de soluções... (a lista é longa); </sub></p>
   <p><sub>• Front-end foi meu primeiro amor, mas hoje me aventuro por muitas outras tecnologias; </sub></p>
  <p><sub>• MUITA coisa na TI segue brilhando meus olhos. Melhor área!!! :) </sub></p>
